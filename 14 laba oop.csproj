@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_14_laba_oop</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\10 laba\10 laba\10 laba.csproj" />
+    <ProjectReference Include="..\13 laba oop\13 laba oop.csproj" />
+    <ProjectReference Include="..\laba 12\laba 12\laba 12.csproj" />
+  </ItemGroup>
+
+</Project>
